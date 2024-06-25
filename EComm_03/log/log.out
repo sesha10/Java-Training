@@ -1,0 +1,25 @@
+[INFO ] 2024-06-19 15:53:30 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[INFO ] 2024-06-19 15:53:30 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and dpne
+[INFO ] 2024-06-19 15:53:42 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[INFO ] 2024-06-19 15:53:42 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and done
+[WARN ] 2024-06-19 15:59:44 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[WARN ] 2024-06-19 15:59:44 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and done
+[WARN ] 2024-06-19 16:03:29 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[DEBUG] 2024-06-19 16:03:29 main com.techmojo.service.Shopping : 10 - Inside the func
+[DEBUG] 2024-06-19 16:03:29 main com.techmojo.service.Shopping : 19 - Balance updated
+[DEBUG] 2024-06-19 16:03:29 main com.techmojo.service.Shopping : 24 - Returning updated balance
+[WARN ] 2024-06-19 16:03:29 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and done
+[WARN ] 2024-06-19 16:04:18 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[DEBUG] 2024-06-19 16:04:18 main com.techmojo.service.Shopping : 10 - Inside the func
+[DEBUG] 2024-06-19 16:04:18 main com.techmojo.service.Shopping : 19 - Balance updated
+[DEBUG] 2024-06-19 16:04:18 main com.techmojo.service.Shopping : 24 - Returning updated balance
+[WARN ] 2024-06-19 16:04:18 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and done
+[WARN ] 2024-06-19 16:10:51 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[DEBUG] 2024-06-19 16:10:51 main com.techmojo.service.Shopping : 10 - Inside the func
+[DEBUG] 2024-06-19 16:10:51 main com.techmojo.service.Shopping : 19 - Balance updated
+[DEBUG] 2024-06-19 16:10:51 main com.techmojo.service.Shopping : 24 - Returning updated balance
+[WARN ] 2024-06-19 16:10:51 main com.techmojo.app.Demo_01 : 18 - buyProduct executed and done
+[WARN ] 2024-06-19 16:13:51 main com.techmojo.app.Demo_01 : 16 - Calling buyProduct with args bal and cost
+[DEBUG] 2024-06-19 16:13:51 main com.techmojo.service.Shopping : 10 - Inside the func
+[WARN ] 2024-06-19 16:13:51 main com.techmojo.service.Shopping : 14 - Balance is lower than cost
+[ERROR] 2024-06-19 16:13:51 main com.techmojo.app.Demo_01 : 21 - com.techmojo.exception.InsufficientFundException: Balance insufficient
